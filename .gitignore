@@ -1,0 +1,32 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Ll]ocal[Pp]ackages/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln
+*.csproj
+*.vsconfig
+
+# Unity misc
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+unityProject.vrmanifest
+
+# Everything in Assets EXCEPT Scripts
+Assets/*
+!Assets/SCRIPTS/
