@@ -36,11 +36,8 @@ All three instruments — the **hourglass, navigational compass, and ship's comp
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add your screenshots here -->
-> *Screenshots and gameplay footage available — see the [walkthrough video](#) (link coming soon)*
-
+## 📸 Visual Showcase
+👉 [View full project on Behance](https://www.behance.net/gallery/184047215/VR-Game-MENTOR-VR)
 ---
 
 ## 🏛️ Academic Context
@@ -48,7 +45,7 @@ All three instruments — the **hourglass, navigational compass, and ship's comp
 - **Institution:** University of the Aegean — Department of Cultural Technology & Communication
 - **Program:** MSc in Cultural Informatics & Communication
 - **Year:** 2023
-- **Supervisor:** Alexandros Tourtas
+
 
 The project investigates how VR can enhance user engagement with cultural heritage content — specifically **underwater / maritime heritage** — through interactive narrative and embodied experience.
 
@@ -59,19 +56,14 @@ The project investigates how VR can enhance user engagement with cultural herita
 
 ```
 Assets/
-├── SCRIPTS/        # All gameplay logic (C#)
-├── Scenes/         # Game scenes
-├── prefabs/        # Custom prefabs
-├── sounds/         # Audio assets
-├── Materials/      # Custom materials
-└── StreamingAssets/
+└── SCRIPTS/        # All gameplay logic (C#)
 ProjectSettings/    # Unity project settings
 Packages/           # Package manifest
+
 ```
 
-> Third-party assets (SteamVR SDK, environment packs) are excluded from this repository. See `Packages/manifest.json` for dependencies.
-
----
+> Assets, scenes, and third-party packages are excluded from this repository.
+> Full visual showcase available on [Behance](https://www.behance.net/gallery/184047215/VR-Game-MENTOR-VR).
 
 ## 📜 License
 
@@ -79,4 +71,4 @@ This project was developed for academic purposes. Please contact me before using
 
 ---
 
-*Developed by Christina Metheniti — [LinkedIn](#) | [GitHub](https://github.com/YOUR_USERNAME)*
+*Developed by Christina Metheniti — [LinkedIn](https://www.linkedin.com/in/christina-metheniti-8b741729a) | [GitHub](https://github.com/chrimetheniti) | [Behance](https://www.behance.net/christimetheni)*
